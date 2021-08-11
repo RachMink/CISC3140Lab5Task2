@@ -6,10 +6,10 @@ Create a webpage using CSS
 http://acc6.its.brooklyn.cuny.edu/~rminkowi/index.html
 
 ### Website breakdown
-This website's home page includes a version of the chart decribed in Lab 5.1 and a navigation bar that connects to more deatailed pages about each language/tool. 
+This website's home page includes a version of the chart decribed in Lab 5.1, a navigation bar that connects to more deatailed pages about each language/tool, and the CSS validator tag. 
 The navigation bar was created in HTML and "elevated" with CSS which changes the section name to white and displays a bar while hovering over each section name. Additionally - the computer logo brings us back to the home page (page with the chart)
 
-<img width="1370" alt="Screen Shot 2021-08-11 at 4 53 02 PM" src="https://user-images.githubusercontent.com/82296790/129101762-7046b453-4609-4cfd-a797-8893b4a1585a.png">
+<img width="1358" alt="Screen Shot 2021-08-11 at 5 12 13 PM" src="https://user-images.githubusercontent.com/82296790/129104035-03b52d2e-760a-4c9e-8619-1030bf23c5a5.png">
 
 Each page of the website includes the same navbar, information column, and sample syntax column of the language/tool being discussed
 
@@ -25,7 +25,8 @@ Each page of the website includes the same navbar, information column, and sampl
 
 <img width="1364" alt="Screen Shot 2021-08-11 at 4 58 43 PM" src="https://user-images.githubusercontent.com/82296790/129102520-f33c1f5d-287c-4fe5-b748-a080b4ad73bf.png">
 
-<img width="1365" alt="Screen Shot 2021-08-11 at 5 00 08 PM" src="https://user-images.githubusercontent.com/82296790/129102688-5b2c166d-32a0-4ae4-9764-ffe51ca096c4.png">
+<img width="1370" alt="git/svn webpage image" src="https://user-images.githubusercontent.com/82296790/129104387-dd7288bb-d5c9-492d-8382-04be7b64e76c.png">
+
 
 
 
