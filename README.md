@@ -36,3 +36,6 @@ Each page of the website includes the same navbar, information column, and sampl
 - https://htmlcolorcodes.com
 - https://www.learnhowtoprogram.com/user-interfaces/building-layouts-preprocessors/multi-page-html-sites
 - https://www.youtube.com/watch?v=FEmysQARWFU
+
+#### Disclaimer
+The information on the website is not original. I do not intend on making this website public, it's sole purpose is to practice using CSS rules NOT the content. 
