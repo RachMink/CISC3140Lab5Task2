@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>
+        Tool Chart
+    </title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <div class="container">
+
+            <a href="index.html"><img alt="logo" class=logo
+                    src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Circle-icons-computer.svg/512px-Circle-icons-computer.svg.png"></a>
+
+            <nav>
+                <ul>
+                    <li> <a href="HTML.html">HTML</a></li>
+                    <li> <a href="CSS.html">CSS</a></li>
+                    <li> <a href="AWK.html">AWK</a></li>
+                    <li> <a href="SQLite3.html">SQLite3</a></li>
+                    <li> <a href="cURL.html">cURL/wGET</a></li>
+                    <li> <a href="PHP.html">PHP</a></li>
+                    <li> <a href="git.html">git/SVN</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <div class="title">
+        <h1>SQLite3</h1>
+    </div>
+    <div class="info">
+        <h3>Information</h3>
+        <p> SQLite is a software library that provides a relational database management system.
+            The lite in SQLite means lightweight in terms of setup, database administration, and required resources.
+            SQLite has the following noticeable features: self-contained, serverless, zero-configuration, transactional.
+        </p>
+
+    </div>
+    <div class="sample">
+        <h3>Sample Syntax</h3>
+        <p> <code>sqlite> CREATE TABLE tbl1(one varchar(10), two smallint);<br>
+        sqlite> INSERT INTO tbl1 values('hello!',10); <br>
+        sqlite> INSERT INTO tbl1 values('goodbye', 20);<br>
+        sqlite> SELECT * from tbl1;</code></p>
+        <em class="comments">*creates and inserts values into tbl1 in command line</em><br>
+        <br>
+        <code>sqlite> .mode list<br>
+            sqlite> select * from tbl1;<br>
+            hello!|10<br>
+            goodbye|20
+        </code><br><br>
+        <em class="comments">*prints everything in tbl1 as a list</em><br>
+    </div>
+    <div class="footer">Coming Soon...</div>
+</body>
+
+</html>

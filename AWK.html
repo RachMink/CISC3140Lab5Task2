@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>
+        Tool Chart
+    </title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <div class="container">
+            <a href="index.html"><img alt="logo" class=logo
+                    src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Circle-icons-computer.svg/512px-Circle-icons-computer.svg.png"></a>
+            <nav>
+                <ul>
+                    <li> <a href="HTML.html">HTML</a></li>
+                    <li> <a href="CSS.html">CSS</a></li>
+                    <li> <a href="AWK.html">AWK</a></li>
+                    <li> <a href="SQLite3.html">SQLite3</a></li>
+                    <li> <a href="cURL.html">cURL/wGET</a></li>
+                    <li> <a href="PHP.html">PHP</a></li>
+                    <li> <a href="git.html">git/SVN</a></li>
+                </ul>
+            </nav>
+        </div>
+
+    </header>
+    <div class="title">
+        <h1>AWK</h1>
+    </div>
+
+    <div class="info">
+        <h3>Information</h3>
+        <p>Awk is mostly used for pattern scanning and processing.</p>
+        <p>Awk is a utility that enables a programmer to write tiny but effective programs in the form of statements
+            that define text patterns that are to be searched for in each line of a document and the action that is to
+            be taken
+            when a match is found within a line.</p>
+    </div>
+
+    <div class="sample">
+        <h3>Sample Syntax</h3>
+        <p><code>$ awk options 'selection _criteria {action}' input-file > output-file</code></p>
+        <em class="comments">*sample command line tool syntax</em><br>
+        <br>
+        <p><code>$ awk '{print}' employee.txt</code></p>
+        <em class="comments">*prints the entire emloyee.txt file in command line</em><br>
+        <br>
+        <p><code>$ awk '{print $1,$4}' employee.csv </code></p>
+        <em class="comments">*prints the first column and the fourth column of the employee.csv file </em><br>
+    </div>
+    <div class="footer">
+        Sources Used
+    </div>
+</body>
+
+</html>
