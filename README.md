@@ -1,7 +1,7 @@
-# CISC3140Lab5Task2
-Create a webpage using CSS
+# Create a webpage using CSS
 
-# Official Link to the website:
+
+# Official Link to this working website:
 
 http://acc6.its.brooklyn.cuny.edu/~rminkowi/index.html
 
